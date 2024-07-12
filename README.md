@@ -21,7 +21,7 @@ This Python script generates phonetically similar names based on an input name. 
 These variations have the same or similar phonetic structure as "Mohammad" according to the Double Metaphone algorithm, even though they may have slightly different spellings. The code you provided would generate   these types of variations by changing, adding, or removing one character at a time and checking if the resulting word has the same phonetic code as the original.
 
 
-About the Metaphone Library: The Metaphone library is a Python implementation of the Double Metaphone algorithm. This algorithm is used for phonetic encoding of words, particularly names. Key points about Metaphone:
+**About the Metaphone Library**: The Metaphone library is a Python implementation of the Double Metaphone algorithm. This algorithm is used for phonetic encoding of words, particularly names. Key points about Metaphone:
 
     It converts words into codes based on their pronunciation rather than spelling.
     This makes it useful for finding words or names that sound alike but may be spelled differently.
